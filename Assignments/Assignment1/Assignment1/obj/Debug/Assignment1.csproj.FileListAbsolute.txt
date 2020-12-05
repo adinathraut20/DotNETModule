@@ -1,0 +1,7 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
