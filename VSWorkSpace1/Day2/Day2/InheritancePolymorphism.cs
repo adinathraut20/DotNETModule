@@ -76,7 +76,7 @@ namespace Day2
     }
     class B : A
     {
-        public void display1() //display1 method hides its parent class display1 method
+        public void display1() 
         {
             Console.WriteLine("B display1");
         }
@@ -92,7 +92,7 @@ namespace Day2
     }
     class C : B
     {
-        public void display1()  //display1 method hides its parent class display1 method
+        public void display1()  
         {
             Console.WriteLine("C display1");
         }

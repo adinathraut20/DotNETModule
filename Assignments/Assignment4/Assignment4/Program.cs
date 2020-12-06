@@ -4,26 +4,53 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment1
+namespace Assignment4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Employee o1 = new Employee("Amol", 123465, 10);
-            Employee o2 = new Employee("Amol", 123465);
-            Employee o3 = new Employee("Amol");
-            Employee o4 = new Employee();
+            int n = 3;
 
-            Console.WriteLine(o1.EMPNO);
-            Console.WriteLine(o2.EMPNO);
-            Console.WriteLine(o3.EMPNO);
+            Employee []arr1 = new Employee[3];
+            for(int i = 0; i < n; i++)
+            {
+                Console.WriteLine("Enter Name : ");
+                string Name = Console.ReadLine();
+                Console.WriteLine("Enter Basic : ");
+                decimal Basic = Convert.ToDecimal(Console.ReadLine());
+                Console.WriteLine("Enter DeptNo : ");
+                short DeptNo =(short) Convert.ToInt32(Console.ReadLine());
+                arr1[i] = new Employee(Name,Basic,DeptNo);
+            }
+            Decimal maxSal = arr1[0].GetNetSalary();
+            Employee e1 = null;
+            for(int i = 1; i < n; i++)
+            {
+                if (maxSal < arr1[i].GetNetSalary()){
+                    e1 = arr1[i];
+                }
+            }
+            Console.WriteLine("Employee Name with Highest Salary : "+e1.NAME);
+            Console.WriteLine("Enter Employee no to search : ");
+            int EmpnoS = Convert.ToInt32(Console.ReadLine());
+            bool flag = true;
+            foreach(Employee i in arr1)
+            {
+                if(EmpnoS == i.EMPNO)
+                {
+                    flag = false;
+                    Console.WriteLine("\nEmployee Name : "+ i.NAME);
+                }
+            }
+            if (flag)
+            {
+                Console.WriteLine("Employee No not found!!!");
+            }
 
-            Console.WriteLine(o3.EMPNO);
-            Console.WriteLine(o2.EMPNO);
-            Console.WriteLine(o1.EMPNO);
         }
     }
+
 
     class Employee
     {
@@ -33,7 +60,10 @@ namespace Assignment1
         private short DeptNo;
         private static int EmpCount;
 
-        
+        public Employee()
+        {
+
+        }
         public Employee(string Name = "noname", decimal Basic = 10000, short DeptNo = 10)
         {
             EmpNo = ++EmpCount;
@@ -41,7 +71,7 @@ namespace Assignment1
             BASIC = Basic;
             DEPTNO = DeptNo;
         }
-       
+
         public string NAME
         {
             set
@@ -88,8 +118,10 @@ namespace Assignment1
             }
         }
 
-        public short DEPTNO{
-            set{
+        public short DEPTNO
+        {
+            set
+            {
                 if (value > 0)
                 {
                     DeptNo = value;
@@ -106,7 +138,7 @@ namespace Assignment1
         }
         public decimal GetNetSalary()
         {
-            return Basic - (Convert.ToDecimal(0.10)*Basic);
+            return Basic - (Convert.ToDecimal(0.10) * Basic);
         }
     }
 }
