@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*1.Create an array of Employee class objects
+        Accept details for all Employees
+        Display the Employee with highest Salary
+        Accept EmpNo to be searched. Display all details for that employee.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +14,7 @@ namespace Assignment4
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int n = 3;
 
