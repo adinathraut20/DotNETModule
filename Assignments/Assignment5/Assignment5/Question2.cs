@@ -28,6 +28,7 @@ namespace Assignment5
             }
             List<Employee> li1 = new List<Employee>();
             li1.AddRange(arr4);
+			//li.ToList(arr4);
             foreach(Employee i in li1)
             {
                 Console.WriteLine("Employee Details : \nName : {0}\nBasic : {1}\nDept NO : {2} ", i.NAME, i.BASIC, i.DEPTNO);
