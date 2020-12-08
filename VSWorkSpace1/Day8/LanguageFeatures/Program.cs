@@ -23,6 +23,14 @@ namespace LanguageFeatures
             Console.WriteLine(myCar.color+" "+myCar2.Model);
             Console.WriteLine(myCar.GetType());
             Console.WriteLine(myCar2.GetType());
+            Console.WriteLine();
+
+
+
+            Emp e3 = new Emp(3, 3, "adi", 27000);
+            Console.WriteLine(e3.name+" "+e3.count1());
+
+
         }
 
     }
@@ -32,6 +40,43 @@ namespace LanguageFeatures
         public void display()
         {
             Console.WriteLine("display "+i);
+        }
+    }
+
+    partial class Emp
+    {
+        private int count;
+        public int empId { get; set; }
+        public Emp(int count,int empId,string name,int basic)
+        {
+            this.count = count;
+            this.empId = empId;
+            this.name = name;
+        }
+    }
+    partial class Emp
+    {
+        public string name { get; set; }
+
+        public string getName()
+        {
+            return name;
+        }
+       
+    }
+
+}
+
+namespace LanguageFeatures
+{
+
+    partial class Emp
+    {
+        public int basic { get; set; }
+
+        public int count1()
+        {
+            return count;
         }
     }
 

@@ -1,0 +1,7 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\bin\Debug\STLstackImple.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\bin\Debug\STLstackImple.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\bin\Debug\STLstackImple.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\obj\Debug\STLstackImple.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\obj\Debug\STLstackImple.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\obj\Debug\STLstackImple.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\ExtraPractice\practice\STLstackImple\obj\Debug\STLstackImple.pdb
