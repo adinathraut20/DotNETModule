@@ -1,0 +1,7 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\bin\Debug\Day8Event.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\bin\Debug\Day8Event.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\bin\Debug\Day8Event.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\obj\Debug\Day8Event.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\obj\Debug\Day8Event.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\obj\Debug\Day8Event.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\Day8Event\obj\Debug\Day8Event.pdb

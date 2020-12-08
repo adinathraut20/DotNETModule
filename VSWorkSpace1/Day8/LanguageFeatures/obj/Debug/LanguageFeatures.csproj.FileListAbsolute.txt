@@ -1,0 +1,6 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day8\LanguageFeatures\obj\Debug\LanguageFeatures.pdb
