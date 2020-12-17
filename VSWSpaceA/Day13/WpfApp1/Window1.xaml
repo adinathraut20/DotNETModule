@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblNo1" Content="No 1 : " HorizontalAlignment="Left" Margin="135,82,0,0" VerticalAlignment="Top" Height="45" Width="128" FontSize="24"/>
+        <Label x:Name="lblNo2" Content="No 2 : " HorizontalAlignment="Left" Margin="135,156,0,0" VerticalAlignment="Top" Height="44" Width="128" FontSize="24"/>
+        <Label x:Name="lblAdd" Content="Addition  : " HorizontalAlignment="Left" Margin="135,228,0,0" VerticalAlignment="Top" Height="44" Width="128" FontSize="24"/>
+        <TextBox x:Name="txtNo1" HorizontalAlignment="Left" Height="46" Margin="306,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" FontSize="24" TextChanged="txtNo1_TextChanged"/>
+        <TextBox x:Name="txtNo2" HorizontalAlignment="Left" Height="46" Margin="306,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" FontSize="24" TextChanged="txtNo2_TextChanged"/>
+        <TextBox x:Name="txtAdd" HorizontalAlignment="Left" Height="46" Margin="306,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" FontSize="24"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="306,326,0,0" VerticalAlignment="Top" Width="140" Height="50" FontSize="20" Click="btnAdd_Click"/>
+
+    </Grid>
+</Window>

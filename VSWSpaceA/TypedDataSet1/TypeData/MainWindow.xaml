@@ -1,0 +1,15 @@
+﻿<Window x:Class="TypeData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TypeData"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="lstDataGrid1" HorizontalAlignment="Left" Height="241" Margin="164,46,0,0" VerticalAlignment="Top" Width="304"/>
+        <Button x:Name="lstDataGrid" Content="Fill" HorizontalAlignment="Left" Margin="193,325,0,0" VerticalAlignment="Top" Width="111" Height="47" FontSize="22" Click="lstDataGrid_Click"/>
+        <Button x:Name="btnAll" Content="All" HorizontalAlignment="Left" Margin="349,325,0,0" VerticalAlignment="Top" Width="119" Height="47" FontSize="22" Click="btnAll_Click"/>
+
+    </Grid>
+</Window>

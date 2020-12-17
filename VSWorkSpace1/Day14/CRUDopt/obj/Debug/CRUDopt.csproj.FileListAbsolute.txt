@@ -1,0 +1,17 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\bin\Debug\CRUDopt.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\bin\Debug\CRUDopt.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\bin\Debug\CRUDopt.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\MainWindow.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\App.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt_MarkupCompile.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt_MarkupCompile.lref
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\MainWindow.baml
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.g.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.Properties.Resources.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.csproj.GenerateResource.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\CRUDopt.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\DataReader.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day14\CRUDopt\obj\Debug\DataReader.baml

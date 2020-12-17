@@ -1,0 +1,12 @@
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\Window1.baml
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\Window1.g.cs
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\App.g.cs
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\VS2008\Mansoft\ControlTemplates\WpfApplication1\obj\Debug\WpfApplication1.pdb

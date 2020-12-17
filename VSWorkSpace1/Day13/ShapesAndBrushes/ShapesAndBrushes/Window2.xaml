@@ -1,0 +1,13 @@
+﻿<Window x:Class="ShapesAndBrushes.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShapesAndBrushes"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <StackPanel>
+        <Line Stroke="Blue" X1="0" Y1="0" X2="200" Y2="10" StrokeThickness="3" Margin="0,0,-0.4,0"/>
+        <Polyline Stroke="Blue" StrokeThickness="5" Points="10,150 30,140 50,160 70,130 90,170 110,120 130,180 150,110 170,190 190,100 210,240" />
+    </StackPanel>
+</Window>

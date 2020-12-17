@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Students diffgr:id="Students1" msdata:rowOrder="0">
+      <id>1</id>
+      <Name>Jiya      </Name>
+      <Fees>40540</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+    <Students diffgr:id="Students2" msdata:rowOrder="1">
+      <id>2</id>
+      <Name>Aish      </Name>
+      <Fees>10000</Fees>
+      <CourseId>1</CourseId>
+    </Students>
+    <Students diffgr:id="Students3" msdata:rowOrder="2">
+      <id>3</id>
+      <Name>Sia       </Name>
+      <Fees>459</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+    <Students diffgr:id="Students4" msdata:rowOrder="3">
+      <id>4</id>
+      <Name>pira 1    </Name>
+      <Fees>845</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+    <Students diffgr:id="Students5" msdata:rowOrder="4">
+      <id>5</id>
+      <Name>mera1     </Name>
+      <Fees>9459</Fees>
+      <CourseId>1</CourseId>
+    </Students>
+    <Students diffgr:id="Students6" msdata:rowOrder="5">
+      <id>6</id>
+      <Name>asd1      </Name>
+      <Fees>8567</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+    <Students diffgr:id="Students7" msdata:rowOrder="6">
+      <id>7</id>
+      <Name>asdf      </Name>
+      <Fees>567</Fees>
+      <CourseId>1</CourseId>
+    </Students>
+    <Students diffgr:id="Students8" msdata:rowOrder="7">
+      <id>8</id>
+      <Name>htrsh     </Name>
+      <Fees>93458</Fees>
+      <CourseId>1</CourseId>
+    </Students>
+    <Students diffgr:id="Students9" msdata:rowOrder="8">
+      <id>9</id>
+      <Name>fasdfh    </Name>
+      <Fees>8459</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+    <Students diffgr:id="Students10" msdata:rowOrder="9" diffgr:hasChanges="modified">
+      <id>10</id>
+      <Name>qwertyui      </Name>
+      <Fees>485</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+  </NewDataSet>
+  <diffgr:before>
+    <Students diffgr:id="Students10" msdata:rowOrder="9">
+      <id>10</id>
+      <Name>rtyu      </Name>
+      <Fees>485</Fees>
+      <CourseId>2</CourseId>
+    </Students>
+  </diffgr:before>
+</diffgr:diffgram>

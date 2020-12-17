@@ -37,6 +37,7 @@ namespace Day2
             c1.display1(); // C display1
             c1.display2(); // C display2
             c1.display3(); // C display3
+            c1.display4(); // B display4
 
             Console.WriteLine("B ref and C object display call");
             B bc1 = new C();
@@ -44,6 +45,7 @@ namespace Day2
             bc1.display1(); // B display1
             bc1.display2(); // B display2
             bc1.display3(); // C display3
+            c1.display4();  //B display4
 
             Console.WriteLine("A ref and C object display call");
             A ac1 = new C();
@@ -51,11 +53,12 @@ namespace Day2
             ac1.display1(); // A display1
             ac1.display2(); // A display2
             ac1.display3(); // C display3
-
+            ac1.display4(); //A display4
 
         }
     }
     class A {
+        
         public void display()
         {
             Console.WriteLine("A display");
@@ -72,7 +75,10 @@ namespace Day2
         {
             Console.WriteLine("A display3");
         }
-        
+        public void display4()
+        {
+            Console.WriteLine("A display4");
+        }
     }
     class B : A
     {
@@ -89,10 +95,14 @@ namespace Day2
         {
             Console.WriteLine("B display3");
         }
+        public void display4()
+        {
+            Console.WriteLine("B display4");
+        }
     }
     class C : B
     {
-        public void display1()  
+        public  void display1()  
         {
             Console.WriteLine("C display1");
         }
@@ -107,4 +117,21 @@ namespace Day2
         }
     }
 
+}
+namespace inter
+{
+    public interface Iface
+    {
+        void display();
+    }
+    abstract class A1 : Iface
+    {
+        public abstract void display();
+      
+       
+    }
+
+    public interface Iface2 : Iface{
+
+    }
 }

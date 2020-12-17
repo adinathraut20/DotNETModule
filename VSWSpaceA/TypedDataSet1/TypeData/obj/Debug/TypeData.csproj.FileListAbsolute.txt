@@ -1,0 +1,14 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\bin\Debug\TypeData.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\bin\Debug\TypeData.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\bin\Debug\TypeData.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\MainWindow.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\App.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData_MarkupCompile.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData_MarkupCompile.lref
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\MainWindow.baml
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.g.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.Properties.Resources.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.csproj.GenerateResource.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\TypedDataSet1\TypeData\obj\Debug\TypeData.pdb

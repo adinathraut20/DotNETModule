@@ -41,7 +41,7 @@ namespace Day1
             Bird q1 = new Bird();
             Console.WriteLine(q1.name);
 
-            Male m1 = new Male();
+            Animal.omnivour.Man.Male m1 = new Animal.omnivour.Man.Male();
             Console.WriteLine(m1.getName());
 
             Animal.A A1 = new Animal.A();
@@ -126,6 +126,7 @@ namespace Animal
 {
     class A
     {
+
         public string name = "A";
     }
 }

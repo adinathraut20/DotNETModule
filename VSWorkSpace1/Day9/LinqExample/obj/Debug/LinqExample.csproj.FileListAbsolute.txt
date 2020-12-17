@@ -1,0 +1,7 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\obj\Debug\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day9\LinqExample\obj\Debug\LinqExample.pdb

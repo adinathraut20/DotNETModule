@@ -1,0 +1,17 @@
+﻿<Window x:Class="CRUDopt.DataReader"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUDopt"
+        mc:Ignorable="d"
+        Title="DataReader" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstName" HorizontalAlignment="Left" Height="197" Margin="250,70,0,0" VerticalAlignment="Top" Width="236"/>
+        <Button x:Name="btnDisplay" Content="Display" HorizontalAlignment="Left" Margin="63,312,0,0" VerticalAlignment="Top" Width="178" Height="54" FontSize="24" Click="btnDisplay_Click"/>
+        <Button x:Name="btnDisplay2" Content="Display2" HorizontalAlignment="Left" Margin="312,312,0,0" VerticalAlignment="Top" Width="174" Height="54" FontSize="24" Click="btnDisplay2_Click"/>
+        <Button x:Name="btnMars" Content="Diplay3 Fuctioncall" HorizontalAlignment="Left" Margin="528,312,0,0" VerticalAlignment="Top" Width="234" Height="54" FontSize="24" Click="btnMars_Click"/>
+        <Button x:Name="btnMars1" Content="MARS" HorizontalAlignment="Left" Margin="528,226,0,0" VerticalAlignment="Top" Width="170" Height="41" FontSize="24" Click="btnMars1_Click"/>
+
+    </Grid>
+</Window>

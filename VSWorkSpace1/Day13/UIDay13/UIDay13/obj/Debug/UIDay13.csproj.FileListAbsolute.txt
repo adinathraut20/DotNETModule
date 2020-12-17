@@ -1,0 +1,15 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\MainWindow.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\App.g.cs
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13_MarkupCompile.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13_MarkupCompile.lref
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\bin\Debug\UIDay13.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\bin\Debug\UIDay13.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\bin\Debug\UIDay13.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\MainWindow.baml
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.g.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.Properties.Resources.resources
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.csproj.GenerateResource.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWorkSpace1\Day13\UIDay13\UIDay13\obj\Debug\UIDay13.csprojAssemblyReference.cache

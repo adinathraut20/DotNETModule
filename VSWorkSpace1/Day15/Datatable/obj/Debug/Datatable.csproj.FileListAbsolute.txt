@@ -1,0 +1,15 @@
+C:\Users\shri\source\repos\Day15\Datatable\bin\Debug\Datatable.exe.config
+C:\Users\shri\source\repos\Day15\Datatable\bin\Debug\Datatable.exe
+C:\Users\shri\source\repos\Day15\Datatable\bin\Debug\Datatable.pdb
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.csprojAssemblyReference.cache
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\MainWindow.g.cs
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\App.g.cs
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable_MarkupCompile.cache
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable_MarkupCompile.lref
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\MainWindow.baml
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.g.resources
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.Properties.Resources.resources
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.csproj.GenerateResource.cache
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.csproj.CoreCompileInputs.cache
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.exe
+C:\Users\shri\source\repos\Day15\Datatable\obj\Debug\Datatable.pdb

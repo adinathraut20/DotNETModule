@@ -1,0 +1,68 @@
+﻿@model ModelApp.Models.Employee
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmpNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmpNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Basic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Basic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeptNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeptNo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+@{
+    for (int i = 1; i <= 10; i++)
+    {
+
+        @i
+        @:<br />
+
+
+
+
+
+
+    }
+
+}
+

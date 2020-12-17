@@ -1,0 +1,7 @@
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\bin\Debug\Day6.exe.config
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\bin\Debug\Day6.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\bin\Debug\Day6.pdb
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\obj\Debug\Day6.csprojAssemblyReference.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\obj\Debug\Day6.csproj.CoreCompileInputs.cache
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\obj\Debug\Day6.exe
+C:\Users\shri\Downloads\CDAC\DotNet\VisualStudioWorkSpace\VSWSpaceA\Day6\Day6\obj\Debug\Day6.pdb
