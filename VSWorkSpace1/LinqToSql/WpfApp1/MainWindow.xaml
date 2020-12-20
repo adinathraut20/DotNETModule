@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="520.541" Width="943.514">
+    <Grid>
+        <Label x:Name="lblId" Content="Id : " HorizontalAlignment="Left" Margin="67,34,0,0" VerticalAlignment="Top" Height="46" Width="133" FontSize="24"/>
+        <Label x:Name="lblEmpName" Content="Name : " HorizontalAlignment="Left" Margin="67,111,0,0" VerticalAlignment="Top" Height="46" Width="133" FontSize="24"/>
+        <Label x:Name="lblBasic" Content="Basic : " HorizontalAlignment="Left" Margin="67,188,0,0" VerticalAlignment="Top" Height="46" Width="133" FontSize="24"/>
+        <Label x:Name="lblDeptNo" Content="DeptNo : " HorizontalAlignment="Left" Margin="67,264,0,0" VerticalAlignment="Top" Height="46" Width="133" FontSize="24"/>
+        <TextBox x:Name="txtEmpId" HorizontalAlignment="Left" Height="46" Margin="200,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247" FontSize="22"/>
+        <TextBox x:Name="txtEmpName" HorizontalAlignment="Left" Height="46" Margin="200,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247" FontSize="22"/>
+        <TextBox x:Name="txtBasic" HorizontalAlignment="Left" Height="46" Margin="200,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247" FontSize="22"/>
+        <TextBox x:Name="txtDeptNo" HorizontalAlignment="Left" Height="46" Margin="200,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="247" FontSize="22"/>
+        <Button x:Name="btnInsert" Content="Insert" HorizontalAlignment="Left" Margin="55,343,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.5,0.5" Height="49" FontSize="22" Click="btnInsert_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.208"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="387,346,0,0" Height="49" FontSize="22" Click="btnDelete_Click"/>
+        <Button x:Name="btnupdate" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="219,346,0,0" Height="49" FontSize="22" Click="btnupdate_Click"/>
+        <DataGrid x:Name="dggrid" HorizontalAlignment="Left" Height="262" Margin="528,34,0,0" VerticalAlignment="Top" Width="366"/>
+        <Button x:Name="btnDisplay" Content="Display" HorizontalAlignment="Left" Margin="610,346,0,0" VerticalAlignment="Top" Width="142" Height="49" FontSize="22" Click="btnDisplay_Click"/>
+
+    </Grid>
+</Window>

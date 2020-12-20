@@ -41,7 +41,7 @@ namespace Day16CRUDhw.Controllers
         }
 
         // GET: Default/Details/5
-        public ActionResult Details(int id)
+        public ActionResult Details(int id=0)
         {
             Employees l1;
             SqlConnection con = new SqlConnection();
@@ -118,7 +118,7 @@ namespace Day16CRUDhw.Controllers
         }
 
         // GET: Default/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int id=0)
         {
             Employees l1;
             SqlConnection con = new SqlConnection();
@@ -153,7 +153,7 @@ namespace Day16CRUDhw.Controllers
 
         // POST: Default/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, Employees e1)
+        public ActionResult Edit(int id=0, Employees e1=null)
         {
             SqlConnection con = new SqlConnection();
                 con.ConnectionString = connect;
@@ -182,7 +182,7 @@ namespace Day16CRUDhw.Controllers
         }
 
         // GET: Default/Delete/5
-        public ActionResult Delete(int id)
+        public ActionResult Delete(int id=0)
         {
             Employees l1;
             SqlConnection con = new SqlConnection();
@@ -218,7 +218,7 @@ namespace Day16CRUDhw.Controllers
 
         // POST: Default/Delete/5
         [HttpPost]
-        public ActionResult Delete(int id, Employees e1)
+        public ActionResult Delete(int id=0, Employees e1=null)
         {
             SqlConnection con = new SqlConnection();
             con.ConnectionString = connect;

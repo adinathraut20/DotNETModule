@@ -18,6 +18,12 @@ namespace Day16CRUDhw
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Default", action = "Index", id = UrlParameter.Optional }
             );
+
+           /* routes.MapRoute(
+                name: "Default",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "SelectItems", action = "Index", id = UrlParameter.Optional }
+            ); */
         }
     }
 }

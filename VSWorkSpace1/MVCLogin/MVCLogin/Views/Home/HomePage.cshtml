@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+
+    MVCLogin.Models.Users u1 = (MVCLogin.Models.Users)Session["User"];
+    string s = u1.Email;
+    string s1 = u1.FullName;
+    int i = u1.UserId;
+
+}
+
+
+
+<h2>HomePage</h2>
+
+<h3>Welcome @s </h3>
+
+<h3>Full Name :  @s1 </h3>
+
+
+<div>
+    @Html.ActionLink("Details", "Details", new { id = i })
+</div>
+

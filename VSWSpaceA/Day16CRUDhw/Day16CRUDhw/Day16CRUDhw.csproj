@@ -95,9 +95,11 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\SelectItemsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Employees.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -111,6 +113,10 @@
     <Content Include="Views\Default\Details.cshtml" />
     <Content Include="Views\Default\Delete.cshtml" />
     <Content Include="Views\Default\Edit.cshtml" />
+    <Content Include="Views\SelectItems\Index.cshtml" />
+    <Content Include="Views\SelectItems\Create.cshtml" />
+    <Content Include="Views\SelectItems\Details.cshtml" />
+    <Content Include="Views\SelectItems\Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
